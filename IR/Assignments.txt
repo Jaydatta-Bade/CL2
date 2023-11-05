@@ -1,0 +1,7 @@
+6. Write a program for pre-processing of a text document such as stop word removal, stemming.
+7. Implement a program for retrieval of documents using inverted files.
+8. Write a program to construct a Bayesian network considering medical data. Use this model to
+demonstrate the diagnosis of heart patients using the standard Heart Disease Data Set (You can use
+Java/Python ML library classes/API.)
+9. Implement Agglomerative hierarchical clustering algorithm using appropriate dataset.
+10. Implement Page Rank Algorithm. (Use python or beautiful soup for implementation).
